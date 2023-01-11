@@ -46,7 +46,7 @@ Taylor Braunsdorf
 ArcPR
 
 ## My replit username is:
-BL-MSCH-C220
+ArcPR
 
 ## I have installed the software on my computer as a part of the exercise
 ```
